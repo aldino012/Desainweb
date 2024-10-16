@@ -1,2 +1,2 @@
 # Desainweb
-Tugas Membuat LandingPage
+Tugas Membuat LandingPage di Pertemuan 2
